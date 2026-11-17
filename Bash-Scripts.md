@@ -10,7 +10,8 @@ The shebang is required at the beginning of the script
 
 ## Writing the script
 
-```#!/usr/bin/bash                             //this is the shebang
+```
+#!/usr/bin/bash                             //this is the shebang
 
 echo "this is the first line of the script" //first command in the script
 
