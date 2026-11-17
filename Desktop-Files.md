@@ -3,7 +3,8 @@ Guide to creating a desktop entries
 (Debian/Gnome DE)
 
 ## Template
-```[Desktop Entry]
+```
+[Desktop Entry]
 Name=Your Application
 Comment=An amazing application
 Exec=your-application
